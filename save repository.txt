@@ -1,0 +1,7 @@
+create:
+1)w + r = control -> диспечер учётных данных -> Windows -> удаляем пользователей
+2)git CMD -> cd -> 1)git config --global user.name "name" -> git status -> error ---> git add --all -> git commit -m -> git remove add origin "link" -> git push -u origin master
+                 2)git config --global user.email "Email"           ^---- 2)git init
+
+add:
+	git push
